@@ -12,7 +12,14 @@
     font-size: 18px;
     padding: 4%;
     padding-left: 15%;
-    padding-right: 30%;
+    padding-right: 10%;
+    flex: 2;
+}
+.welcome_image{
+    padding-right: 8%;
+    padding-top: 6%;
+    background-color: antiquewhite;
+    flex: 4;
 }
 .welcome {
     background-color: #1f2937;
