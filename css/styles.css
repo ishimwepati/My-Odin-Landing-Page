@@ -1,10 +1,22 @@
 /* my css style file*/
 .header {
     background-color: #1f2937;
+    display: flex;
 }
-
+.header_logo{
+    flex: 4;
+    padding-left: 15%;
+}
+.welcome_word{
+    font-family: #f9faf8;
+    font-size: 18px;
+    padding: 4%;
+    padding-left: 15%;
+    padding-right: 30%;
+}
 .welcome {
     background-color: #1f2937;
+    display: flex;
 }
 
 .testinomy {
