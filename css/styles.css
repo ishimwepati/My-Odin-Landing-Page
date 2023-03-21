@@ -62,3 +62,20 @@
 .testinomy p{
     text-align: right;
 }
+
+.signup {
+    display: flex;
+    padding: 5%;
+    padding-left: 15%;
+    color: #e5e7eb;
+}
+.signup_word{
+    flex: 3;
+    background-color: #3882F6;
+    padding-left: 10%;
+}
+.signup_button{
+    flex: 1;
+    background-color: #3882F6;
+    padding: 5%;
+}
