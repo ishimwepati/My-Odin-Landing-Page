@@ -8,9 +8,15 @@
     padding-left: 15%;
     padding-top: 1%;
 }
+h2{
+    text-align: center;
+}
 .menu{
     padding-right: 3%;
     padding-top: 1%;
+}
+a:link{
+    color: #e5e7eb;
 }
 .welcome_word{
     font-family: #f9faf8;
@@ -51,6 +57,12 @@
 .random_info img {
     border-radius: 15%;
 }
+.random_info p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding-right: 30%;
+    text-align: center;
+}
 .testinomy {
     padding: 10%;
     font-size: 25px;
@@ -73,6 +85,7 @@
     flex: 3;
     background-color: #3882F6;
     padding-left: 10%;
+    text-align: left;
 }
 .signup_button{
     flex: 1;
@@ -85,4 +98,12 @@
     padding-top: 3%;
     padding-bottom: 3%;
     text-align: center;
+}
+.button {
+    border-radius: 10px;
+    background-color: #3882F6;
+    color: white;
+    border: 2px solid #e1e5ec;
+    font-size: larger;
+    width: 150px;
 }
