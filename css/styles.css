@@ -44,4 +44,10 @@
 }
 .random_info{
     display: flex;
+    padding-left: 20%;
+    text-align: justify;
+
+}
+.random_info img {
+    border-radius: 15%;
 }
