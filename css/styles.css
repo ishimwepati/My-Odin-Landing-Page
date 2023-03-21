@@ -6,6 +6,11 @@
 .header_logo{
     flex: 4;
     padding-left: 15%;
+    padding-top: 1%;
+}
+.menu{
+    padding-right: 3%;
+    padding-top: 1%;
 }
 .welcome_word{
     font-family: #f9faf8;
@@ -18,8 +23,11 @@
 .welcome_image{
     padding-right: 8%;
     padding-top: 6%;
-    background-color: antiquewhite;
     flex: 4;
+    
+}
+.welcome_image img {
+    border-radius: 10%; 
 }
 .welcome {
     background-color: #1f2937;
