@@ -51,3 +51,14 @@
 .random_info img {
     border-radius: 15%;
 }
+.testinomy {
+    padding: 10%;
+    font-size: 25px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 15%;
+    text-align: justify;
+}
+.testinomy p{
+    text-align: right;
+}
