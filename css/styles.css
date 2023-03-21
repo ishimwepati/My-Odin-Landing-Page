@@ -79,3 +79,10 @@
     background-color: #3882F6;
     padding: 5%;
 }
+.footer {
+    color: #e5e7eb;
+    font-size: 20px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: center;
+}
