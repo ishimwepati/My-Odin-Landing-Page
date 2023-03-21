@@ -59,9 +59,10 @@ a:link{
 }
 .random_info p{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 18px;
+    font-size: 15px;
     padding-right: 30%;
-    text-align: center;
+    text-align: justify;
+    padding-left: 10%;
 }
 .testinomy {
     padding: 10%;
